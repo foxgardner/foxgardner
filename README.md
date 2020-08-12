@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Howdy, welcome to my github. You wont find anything useful here right now, but maybe later.
 <!--
 **foxgardner/foxgardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
